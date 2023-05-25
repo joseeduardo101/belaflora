@@ -1,0 +1,19 @@
+/* src/componentes/Rodape/index.js */
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #d4d4c4;
+    color: black;
+    height: 60px;
+    text-align: center;
+}
+    .footer footer{
+        align-items:center;
+        text-align:center;
+        justify-items:center;
+        padding-top:25px;
+    }
+    

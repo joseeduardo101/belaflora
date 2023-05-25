@@ -1,0 +1,15 @@
+.conteudo {
+    width: 70%;
+    background: #e8e8d9;
+    padding: 10px;
+    margin: auto;
+    font-size:25px;
+}
+input[type=color] {
+    width: 50px;
+    height: 50px;
+    border:1px;
+    border-color:none;
+    border-radius: 50%;
+    overflow: hidden;
+}

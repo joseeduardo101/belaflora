@@ -1,0 +1,30 @@
+.App-header {
+    background-color: #d4d4c4;
+    border-bottom: solid 2px;
+    height: 50px;
+    width: 70%;
+    display: flex;
+    align-items: center;
+    font-size: 25px;
+    color: lightblue;
+    margin: auto;
+}
+
+.App-headerUl {
+    margin-left: 50px;
+}
+
+._Li {
+    text-decoration: none;
+    list-style: none;
+    display: inline;
+    padding-left: 20px;
+}
+
+    ._Li a {
+        text-decoration: none;
+        color: #4b566a;
+    }
+        ._Li a:hover {
+            color: darkblue;
+        }
